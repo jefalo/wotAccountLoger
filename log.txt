@@ -1,0 +1,36 @@
+<font size='15' face='$TitleFont' color='#E9E2BF'>Retenir la méthode de connexion</font><br/><font size='3' face='$TitleFont'>&nbsp;</font>
+<font size='1' > </font>
+<font size='14' face='$FieldFont' color='#8C8C7E'>Active ou désactive l'option pour retenir votre adresse électronique, votre mot de passe
+et la méthode de connexion utilisées par la Connexion rapide.</font><br/><font size='3' face='$TitleFont'>&nbsp;</font>
+<font size='1' > </font>
+
+<font size='15' face='$TitleFont' color='#E9E2BF'>Retenir la méthode de connexion</font><br/><font size='3' face='$TitleFont'>&nbsp;</font>
+<font size='1' > </font>
+<font size='14' face='$FieldFont' color='#8C8C7E'>Active ou désactive l'option pour retenir votre adresse électronique, votre mot de passe
+et la méthode de connexion utilisées par la Connexion rapide.</font><br/><font size='3' face='$TitleFont'>&nbsp;</font>
+<font size='1' > </font>
+
+token2
+email@wanadoo.fr
+motdepasse
+token2
+peripheryLifetime
+session
+session
+password_length
+remember_user
+login
+login
+session
+login_type
+login_type
+gui.Scaleform.app_factory
+Destroying app: scaleform/battle
+gui.Scaleform.app_factory
+Destroying app: scaleform/lobby
+gui.app_loader.loader
+App is destroyed: scaleform/lobby
+web.cache.web_cache
+WebStorage destroyed
+WebBrowser
+WebExternalCache destroyed
